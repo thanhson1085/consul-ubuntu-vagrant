@@ -5,4 +5,4 @@ You just clone this repository and run:
 vagrant up
 ```
 
-And now, you can get started with Consul, following the guide at [https://www.consul.io/intro/getting-started/join.html](consul.io)
+And now, you can get started with Consul, following the guide at [consul.io](https://www.consul.io/intro/getting-started/join.html)
